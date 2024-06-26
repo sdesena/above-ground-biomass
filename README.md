@@ -34,7 +34,7 @@ After data collection, the main stages of this work include:
 - Neural networks, such as CNNs..
 
 
-### Accuracy Evaluation:
+### Accuracy Assessment:
 
 - Assessing the performance of tuned models using metrics such as RMSE, MAE, R².
 - Comparing results with ground truth biomass estimates.
